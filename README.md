@@ -1,4 +1,4 @@
-# Modeling a Hurricane in Two and Three Dimensions
+# Modeling Hurricane Velocity Field by Vector Decomposition 
 Repository Authored by Brayden Mi  
 Diane Guo, Brayden Mi  
 Dr. Raulston  
