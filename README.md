@@ -1,8 +1,8 @@
 # Modeling a Hurricane in Two and Three Dimensions
-Repository Authored by Brayden Mi
-Diane Guo, Brayden Mi
-Dr. Raulston
-Multivariable Calculus G Carrier 2022, St. John's School
+Repository Authored by Brayden Mi \n
+Diane Guo, Brayden Mi \n
+Dr. Raulston \n
+Multivariable Calculus G Carrier 2022, St. John's School \n
 
 Abstract:
 Tropical Cyclones are large scale storms that occur in tropical conditions. A cyclone collects and carries large amounts of energy and water over its path on the ocean and can cause tremendous amounts of damage to life and property while it approaches the coast. It can also travel a long distance onshore, dissipating rainfall and causing significant damages.
